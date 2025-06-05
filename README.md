@@ -9,7 +9,7 @@ During this project, I encountered the challenge of managing multiple similar ch
 
 ##  Dashboard Preview
 
-![Retail Sales Dashboard](HR Analytics Dashboard.png )
+![Retail Sales Dashboard](Dashboard.png)
 
 
 ## Key Learnings
