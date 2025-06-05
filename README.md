@@ -7,6 +7,11 @@ This Power BI dashboard was created as a part of my first mini project during th
 
 During this project, I encountered the challenge of managing multiple similar charts which made the dashboard look crowded. To solve this, I learned about a useful Power BI feature called **Hierarchies**, which allowed me to group fields like `Business Unit`, `Department`, and `Division` into a single drillable visual. This helped in organizing related data together and avoiding repetition across visuals.
 
+##  Dashboard Preview
+
+![Retail Sales Dashboard](HR Analytics Dashboard.png)
+
+
 ## Key Learnings
 
 ### 1. Hierarchies in Power BI
