@@ -1,10 +1,5 @@
 # HR-Data-Analytics-Dashboard-in-PowerBI
 
-Certainly! Here's the updated `README.md` file with **full explanations** for each section, written clearly and professionally—without emojis, extra fluff, or next steps:
-
----
-
-# Power BI Mini Dashboard – Employee Insights
 
 ## Project Overview
 
